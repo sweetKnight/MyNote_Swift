@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "NoteTableViewCell.leftSwipe() -&gt; ():NoteTableViewCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "bgView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NoteTableViewCell.init(style : UITableViewCellStyle, reuseIdentifier : String?) -&gt; NoteTableViewCell:NoteTableViewCell.swift">
+      </ContextState>
+      <ContextState
+         contextName = "NoteTableViewCell.(leftSwipe in _8E728B5FB9022737425EFA5D7AA54A1C)() -&gt; ():NoteTableViewCell.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
